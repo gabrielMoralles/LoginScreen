@@ -1,0 +1,26 @@
+nav{
+    margin: auto;
+    width: 20%;
+    border: 3px solid green;
+    padding: 10px;
+    font-family: sans-serif;
+    
+}
+nav h2 {
+
+    padding-bottom: 5%;
+
+
+}
+nav h3 {
+
+
+    padding-top: 8%;
+}
+
+button{
+
+    padding-top:2px; 
+
+}
+
