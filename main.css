@@ -1,9 +1,10 @@
 nav{
     margin: auto;
-    width: 20%;
+    width: 10%;
     border: 3px solid green;
     padding: 10px;
     font-family: sans-serif;
+    border-radius: 10px;
     
 }
 nav h2 {
@@ -22,5 +23,10 @@ button{
 
     padding-top:2px; 
 
+}
+
+input{
+    position: inherit;
+    width: 70%;
 }
 
