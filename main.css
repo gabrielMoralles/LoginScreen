@@ -1,19 +1,22 @@
-nav{
+div{
     margin: auto;
+    margin-top:15%; 
     width: 10%;
-    border: 3px solid green;
+    border: 3px solid rgb(0, 0, 0);
     padding: 10px;
     font-family: sans-serif;
     border-radius: 10px;
+    background-color: rgb(240, 239, 239);
+    
     
 }
-nav h2 {
+div h2 {
 
     padding-bottom: 5%;
 
 
 }
-nav h3 {
+div h3 {
 
 
     padding-top: 8%;
