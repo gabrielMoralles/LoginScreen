@@ -1,12 +1,13 @@
 div{
     margin: auto;
     margin-top:15%; 
-    width: 10%;
+    width: 15%;
     border: 3px solid rgb(0, 0, 0);
     padding: 10px;
     font-family: sans-serif;
     border-radius: 10px;
     background-color: rgb(240, 239, 239);
+    font-size: 1ch;
     
     
 }
@@ -34,8 +35,8 @@ input{
 }
 
 .logo{
-    
-    height: 4ch;
-    margin-left:25%; 
+    position: fixed;
+    height: 3%;
+    margin-left: 12%; 
 
 }
