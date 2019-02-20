@@ -54,16 +54,23 @@ ul{
     width: 100%;
     margin:auto;
     text-decoration: none;
-    
+    background-color:#bebebe;
+    text-align: center;
+    height: 3ch;
+    padding-top: 1ch ;
 }
 ul li{
     
     border-left: 1px solid rgb(0, 0, 0);
     border-right: 1px solid rgb(0, 0, 0);
     display: inline;
-    height: 20px;
-    padding: 5px;
-    background-color: azure;
+    height: 0px;
+    padding: 0px;
+    padding-right: 5px;
+    padding-left: 5px;
+    padding-top: 3ch ;
+    padding-bottom: 1ch;
+
 }
 ul li a{
     text-decoration: none;
