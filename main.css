@@ -1,6 +1,6 @@
 body{
 
-   
+   font-family: sans-serif;
     
 }
 
@@ -15,7 +15,7 @@ div{
     border-radius: 10px;
     background-color: rgb(240, 239, 239);
     font-size: 20px;
-    background-image: linear-gradient(to bottom, #bebebe,#FFFF,#FFFF,#bebebe);
+    background-image: linear-gradient(to bottom, #bebebe,#FFFF,#bebebe);
     
     
     
@@ -49,4 +49,23 @@ input{
     height: 40px;
      
 
+}
+ul{
+    width: 100%;
+    margin:auto;
+    text-decoration: none;
+    
+}
+ul li{
+    
+    border-left: 1px solid rgb(0, 0, 0);
+    border-right: 1px solid rgb(0, 0, 0);
+    display: inline;
+    height: 20px;
+    padding: 5px;
+    background-color: azure;
+}
+ul li a{
+    text-decoration: none;
+    color: black;
 }
