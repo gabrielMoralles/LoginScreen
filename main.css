@@ -76,3 +76,8 @@ ul li a{
     text-decoration: none;
     color: black;
 }
+.none-border{
+    border-left:none; 
+
+
+}
